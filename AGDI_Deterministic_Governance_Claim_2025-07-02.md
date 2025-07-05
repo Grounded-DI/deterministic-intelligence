@@ -1,5 +1,4 @@
-# Logic Protocol originally filed May 24, 2025 under USPTO
-# as part of the Motion-Aware Legal Reasoning System (Protocol A)
+# Logic Protocol originally filed May 24, 2025 under USPTO as part of the Motion-Aware Legal Reasoning System ("Protocol A")
 
 # =============================================================
 # 🔒 Grounded DI — Deterministic Intelligence Signature
