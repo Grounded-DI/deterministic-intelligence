@@ -1,19 +1,12 @@
 # Logic Protocol originally filed May 24, 2025 under USPTO as part of the Motion-Aware Legal Reasoning System ("Protocol A")
 
-# =============================================================
-# 🔒 Grounded DI — Deterministic Intelligence Signature
-# This file is part of a governed logic system designed and filed
-# under the AGDI Protocol Framework (patents filed).
-#
-# Logic Tracepoint: DI-Core-B5-24 / Protocol A
-# This system uses constraint-based override trees and
-# deterministic routing to produce governed, audit-ready output.
-#
-# All derivative uses or reinterpretations of this architecture
-# are subject to authorship and governance claims.
-# Authored by: Grounded DI
-# =============================================================
+# 🔒 Grounded DI — Deterministic Intelligence Signature. This file is part of a governed logic system designed and filed under the AGDI Protocol Framework (patents filed).
 
+# Logic Tracepoint: DI-Core-B5-24 / Protocol A. This system uses constraint-based override trees and deterministic routing to produce governed, audit-ready output.
+
+# All derivative uses or reinterpretations of this architecture are subject to authorship and governance claims.
+# Authored by: Grounded DI
+#===========================================================================
 > ⚠️ **Clarification**: This is not AGI. AGDI is *not* artificial general intelligence.  
 > It is not sentient or predictive, and it does not generate content itself.  
 > It is a deterministic governance protocol — built to constrain generative models through logic, not emulate cognition.
