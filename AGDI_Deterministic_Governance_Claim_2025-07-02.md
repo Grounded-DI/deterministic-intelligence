@@ -112,3 +112,8 @@ It asserts the **existence**, **originality**, and **legal protection** of this 
 ## 🔖 Tags
 
 #DI #GroundedDI #SafeAI #AGDI #DIA #AGIA 
+
+This system is governed by a deterministic override mechanism known as the Entropy-Linked Override Chain (ELOC), which activates when entropy drift is detected within generative outputs.
+Unlike probabilistic models that rely on prediction confidence or moderation post hoc, ELOC enforces real-time constraint activation by measuring deviation from logical consistency, auditability, or rule compliance.
+The use of entropy as a deterministic trigger enables the system to halt, reroute, or override AI behavior based on objective thresholds — ensuring that outputs remain grounded, safe, and governed under a transparent logic chain.
+All outputs from this system are subject to entropic monitoring, override escalation, and deterministic logic tree enforcement per AGDI Protocol 2025.
