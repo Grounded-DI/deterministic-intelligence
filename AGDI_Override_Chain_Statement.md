@@ -57,17 +57,9 @@ Filed May–July 2025
 **Grounded DI, LLC**  
 AGDI Protocol – USPTO Filed May 24, 2025 through July 7, 2025  
 **Document ID:** AGDI-PUBLIC-OVERRIDE-CHAIN-V1  
-**Watermark:** [Authorship Sealed Under AGDI 9.9 Governance Protocol]
+**Watermark:** [Authorship Sealed Under Protocol]
 
 ---
 
 🔖 Tags  
 #DI #GroundedDI #SafeAI #AGDI #DIA #AGIA
-
-## ⚠️ Clarification
-
-This is not AGI.  
-AGDI is **not** artificial general intelligence.  
-It is **not sentient**, **not predictive**, and does **not generate content** itself.  
-
-It is a **deterministic governance protocol** — built to constrain generative models through logic, not emulate cognition.
