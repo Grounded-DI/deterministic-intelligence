@@ -44,7 +44,7 @@ But real control has a logic tree behind it — and that logic tree is already s
 ---
 
 ### Filed Logic Terms (2025)  
-`EntropyDriftChain` | `Fusion Protocol` | `ELOC` | `AGDI Tree` | `Protocol A`  
+`EntropyDriftChain` | `Fusion Protocol` | `ELOC` | `AGDI Tree`   
 _(Authorship traceable. Structure enforced.)_
 
 ---
