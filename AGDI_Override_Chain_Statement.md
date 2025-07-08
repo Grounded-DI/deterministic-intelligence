@@ -17,7 +17,7 @@ When someone says “real-time,” ask:
 - Where's the deterministic gate?
 - Who authored the system?
 
-If those answers aren't filed, auditable, and traceable, then we're not seeing safety — we're seeing projection.
+If those answers aren’t filed, auditable, and traceable, then the system lacks a verifiable safety structure particularly in high-stakes domains.
 
 ---
 
