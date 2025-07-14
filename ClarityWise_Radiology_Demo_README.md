@@ -77,7 +77,7 @@ Claude: confident, arguably incorrect, misdiagnosis
 
 ## 📎 Attachments
 
-- [📄 ClarityBenchmark_TeratomaCase001.pdf](./ClarityBenchmark_TeratomaCase001.pdf)
+- 📄 ClarityWise_Radiology_Demo_Teratoma.pdf (separate file)
 
 ---
 
