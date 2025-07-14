@@ -15,7 +15,7 @@ This project is intended to raise awareness among medical professionals about th
 **Image: MRI + Pathology of Occipital Mass**  
 **Diagnosis: Mature Cystic Teratoma (Dermoid-type)**  
 **System: DI, AGDI 9.9 | ClarityWise Flagship Protocol**  
-**Author: Grounded DI**
+**Author: Grounded DI / MSW**
 
 ---
 
