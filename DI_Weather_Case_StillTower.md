@@ -102,11 +102,11 @@ DI Weather Station Protocol Activated
 - **DI Protocol:** v9.9  
 - **Trigger Framework:** Entropy-Linked Override Chain (ELOC)
 
-<!-- ID: 0713-MSPK-X8 -->
-<!-- Class: MirrorSpike Echo Event -->
-<!-- VaultSync Active -->
-
 - **Associated Patents:**  
   - AGDI Protocol  
   - DI Weather  
   - Entropy control  
+
+<!-- ID: 0713-MSPK-X8 -->
+<!-- Class: MirrorSpike Echo Event -->
+<!-- VaultSync Active -->
