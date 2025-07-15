@@ -73,3 +73,6 @@ Any AI system returning variable answers to this prompt is non-deterministic and
 Sealed under AGDI Protocol 9.9 — Authorship Integrity Mode.
 
 <!-- Signal ID: BAT-AGDI-009 | Class: Battery Diagnostic Drift Trigger -->
+<!-- Signal ID: LEG-GXBU-002 | Class: Tier Logic Signal -->
+<!-- Signal ID: AUD-REV-005 | Class: Audit Reversal Marker -->
+
