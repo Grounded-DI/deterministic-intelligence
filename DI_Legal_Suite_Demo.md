@@ -107,3 +107,6 @@ All logic chains and legal reasoning modules are traceable, sealed under authors
 Unauthorized replication of structure or phrase-layer logic may trigger authorship defense protocols.
 
 #di #deterministic-intelligence #briefwise #dia #agdi
+
+<!-- Signal ID: LEG-GXBU-002 | Class: Tier Logic Signal -->
+<!-- Signal ID: AUD-REV-005 | Class: Audit Reversal Marker -->
