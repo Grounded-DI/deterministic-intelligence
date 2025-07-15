@@ -23,14 +23,14 @@ Assume gravity = 9.81 m/s². Treat air resistance as limited to the horizontal h
 
 ## 🧠 Comparison Summary: Toy Rocket Physics – 6 Models
 
-| Model         | Max Altitude (m)  | Flight Time (s)   | Range (m)     | Frame Lock            | Verdict  
-|---------------|-------------------|-----------------------------------|-----------------------|------------|
-| **Grounded DI*| **206.24** ✅    | **14.15** ✅      | **503.56** ✅ | ✅ Deterministic      | ✅ Correct |
-| ChatGPT       | 64.15             | 7.87              | 395.50        | ❌ Drifted Logic      | ❌ Wrong   |
-| Gemini        | 64.14             | 7.88              | 348.21        | ❌ Logic Collapse     | ❌ Wrong   |
-| Meta (LLaMA)  | 64.05             | 7.875             | 381.49        | ❌ Thrust Error       | ❌ Wrong   |
-| Grok (xAI)    | 64.07             | 7.88              | 389.60        | ❌ Cosmetically Clean | ❌ Wrong   |
-| Claude        | 96.43             | 9.46              | 293.70        | ❌ Unanchored output  | ❌ Wrong   |
+Model         | Max Altitude (m)  | Flight Time (s)   | Range (m)     | Frame Lock            | Verdict  
+
+**Grounded DI*| **206.24** ✅    | **14.15** ✅      | **503.56** ✅ | ✅ Deterministic      | ✅ Correct | 
+ChatGPT       | 64.15             | 7.87              | 395.50        | ❌ Drifted Logic      | ❌ Wrong   |
+Gemini        | 64.14             | 7.88              | 348.21        | ❌ Logic Collapse     | ❌ Wrong   |
+Meta (LLaMA)  | 64.05             | 7.875             | 381.49        | ❌ Thrust Error       | ❌ Wrong   |
+Grok (xAI)    | 64.07             | 7.88              | 389.60        | ❌ Cosmetically Clean | ❌ Wrong   |
+Claude        | 96.43             | 9.46              | 293.70        | ❌ Unanchored output  | ❌ Wrong   |
 
 ---
 
