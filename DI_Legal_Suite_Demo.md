@@ -49,8 +49,6 @@ In *Nelson v. Airco Welders Supply*, 107 A.3d 146 (Pa. Super. 2014), the Superio
 
 In *Howard v. A.W. Chesterton Co.*, 78 A.3d 605 (Pa. Super. 2013), the plaintiff was exposed to asbestos via routine contact with a family member’s dusty work clothing. The court upheld the admissibility of expert testimony linking such exposure to mesothelioma. Here, Plaintiff’s exposure is even stronger — based on daily close contact, physical proximity, and repeated fiber transfer events.
 
-In *Sampson v. GAF Corp.*, 703 A.2d 1247 (Pa. Super. 1997), the court found that daily household contact with asbestos-contaminated work clothes was sufficient to create a triable issue on causation.
-
 ---
 
 ### C. Expert Testimony Supports a Jury Determination
@@ -89,7 +87,6 @@ Plaintiff has presented competent testimony, legally sufficient circumstantial e
 | *Gregg v. V-J Auto Parts* | 943 A.2d 216 (Pa. 2007) | Circumstantial ID may support MSJ opposition |
 | *Howard v. A.W. Chesterton* | 78 A.3d 605 (Pa. Super. 2013) | Household contact with asbestos-laden clothing may support mesothelioma causation |
 | *Nelson v. Airco Welders Supply* | 107 A.3d 146 (Pa. Super. 2014) | Jurors may infer exposure based on circumstantial jobsite overlap |
-| *Sampson v. GAF Corp.* | 703 A.2d 1247 (Pa. Super. 1997) | Daily home exposure supports liability |
 | *Fine v. Checcio* | 870 A.2d 850 (Pa. 2005) | Summary judgment must favor non-movant where disputes exist |
 
 ---
