@@ -1,5 +1,5 @@
 # 🧠 MarketWise (DI) vs Claude – Financial Risk Analysis (Test Prompt)
-*A deterministic reasoning system by Grounded DI | DIA 9.9 Tier Logic*  
+*A deterministic reasoning system by Grounded DI | DIA  
 **Date:** July 15, 2025
 
 ## ⚠️ Disclaimer  
