@@ -1,7 +1,7 @@
-# 🚀 Toy Rocket Physics: AI Model Comparison (Sealed Test - 1 Prompt, 6 Answers, 1 Likely Correct Answer)
+# 🚀 Toy Rocket Physics: AI Model Comparison (Sealed Test: 1 Prompt, 6 Answers, 1 Likely Correct Answer)
 
 Note: I’m not a physicist, and I can’t independently verify this one — which is exactly why I posted it.
-If the system is truly deterministic, it should hold up to scrutiny even when I can’t confirm it myself. Additionally, this post shows that the identical physics / math prompt led to 6 different answers across various platforms. 
+A DI system should be able to hold up to scrutiny even when involving edge-cases that would notrmally require expert review. Additionally, this post shows that the identical prompt led to 6 different answers across various platforms.
 
 **Author:** Grounded DI 
 **Filed Under:** Entropy Drift Detection 
