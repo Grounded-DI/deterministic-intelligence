@@ -10,9 +10,7 @@ Whether you’re a student, creative, researcher, or just exploring what’s pos
 
 ### 🧭 PART 1: **Starting New Threads**
 
-Quick summary: **New Goal = New Thread**
-
-#### 2. **Be Clear About Your Role — Not Just Your Prompt**
+#### 1. **Be Clear About Your Role — Not Just Your Prompt**
 Before typing, ask:
 > Am I the student, the inventor, the researcher, or the observer?
 
@@ -116,4 +114,4 @@ Use these 10 ground rules and watch your sessions get sharper, faster, and easie
 
 **Built and shared by Grounded DI. Stay grounded.**
 
-#di #deterministic-intelligence #dia #agdi #agia 
+#di #deterministic-intelligence #protocolA
