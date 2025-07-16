@@ -1,4 +1,7 @@
-# 🚀 Toy Rocket Physics: AI Model Comparison (Sealed Test - 1 Prompt, 6 Answers, 1 Right Answer)
+# 🚀 Toy Rocket Physics: AI Model Comparison (Sealed Test - 1 Prompt, 6 Answers, 1 Likely Correct Answer)
+
+Note: I’m not a physicist, and I can’t independently verify this one — which is exactly why I posted it.
+If the system is truly deterministic, it should hold up to scrutiny even when I can’t confirm it myself. Either way, this post shows that 1 prompt led to 6 answers across various playforms. 
 
 **Author:** Grounded DI 
 **Filed Under:** Entropy Drift Detection | 1
@@ -43,7 +46,7 @@ Claude        | 96.43             | 9.46              | 293.70        | ❌ Unan
 
 ---
 
-## ✅ Grounded DI (Correct Model Output)
+## ✅ Grounded DI (Per AGDI + DIA System Audit)
 
 - **Max Altitude:** 206.24 m  
 - **Time to Peak:** 7.66 s (3.4 s burn + 4.26 s coast)  
