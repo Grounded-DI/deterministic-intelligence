@@ -1,7 +1,7 @@
 
 # 🏈 Sports Entropy Formula
 _A Novel Metric for Predicting Organizational Instability in Sports Franchises_
-_This formula doesn't predict wins. It predicts sports drama and extra losses. 🤠🏈 
+**This formula doesn't predict wins. It predicts sports drama and extra losses. 🤠🏈**
 
 **Author**: Grounded DI  
 **Version**: v1.0  
@@ -61,6 +61,8 @@ SES = (0.3×3 + 0.25×2 + 0.25×2 + 0.2×1) × (1 – 0.6)
 ```
 
 🔎 *Interpretation*: Medium-high entropy score. The team is at risk of collapse under playoff pressure.
+
+<!-- Signal ID: SPD-H1-013 | Class: SportsLogic -->
 
 ---
 
