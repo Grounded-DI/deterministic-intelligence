@@ -1,4 +1,3 @@
-
 # Tropical Cyclone WIPHA-25 – Deterministic vs Probabilistic Forecast Comparison (Pre-Landfall)
 
 **Author**: Grounded DI LLC
@@ -131,7 +130,7 @@ Post-impact validation will follow.
 ---
 
 **Author:** Grounded DI LLC  
-**System:** CorridorWise + StormWise  
+**System:** HazardWise + StormWise (patent-protected)
 **Date:** July 19, 2025 (Pre-Landfall Edition)
 
 <!-- Signal ID: CWX-102 -->
