@@ -65,7 +65,7 @@ Company B explains *why* Radiohead feels powerful — but without compositional 
 ## Authorship
 
 This system is powered by Grounded DI deterministic intelligence.  
-No guessing. No hallucinations. Just grounded analysis.
+No guessing. Just grounded analysis.
 
 "Guessing may entertain. But grounded structure reveals the *why* behind the *wow*." — Grounded DI
 
