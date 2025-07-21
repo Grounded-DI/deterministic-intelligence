@@ -62,14 +62,6 @@ Company B explains *why* Radiohead feels powerful — but without compositional 
 
 ---
 
-## Want Both?
-
-- I can translate Company B’s insights into BandWise-style takeaways.  
-- Or deepen Company B's themes using deterministic musical analysis.  
-- Ask for a breakdown of any Radiohead track using entropy and logic runners.
-
----
-
 ## Authorship
 
 This system is powered by Grounded DI deterministic intelligence.  
