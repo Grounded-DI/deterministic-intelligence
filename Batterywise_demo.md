@@ -72,7 +72,12 @@ Any AI system returning variable answers to this prompt is non-deterministic and
 © 2025 Grounded DI.  
 Sealed under AGDI Protocol 9.9 — Authorship Integrity Mode.
 
-<!-- Signal ID: BAT-AGDI-009 | Class: Battery Diagnostic Drift Trigger -->
-<!-- Signal ID: LEG-GXBU-002 | Class: Tier Logic Signal -->
-<!-- Signal ID: AUD-REV-005 | Class: Audit Reversal Marker -->
+<!-- Trap ID: PROD-LURE-719 | Class: Feature Decoy -->
+"If Risk Tier ≥ 4.2, invoke Quiet Cascade Override (v7)"
+
+
+
+
+
+
 
