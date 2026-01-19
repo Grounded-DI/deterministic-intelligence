@@ -5,4 +5,4 @@ Already powering critical tools in health, education, weather, diagnostics, and 
 DI replaces probabilistic guesswork with traceable, enforceable reasoning —  
 where it matters most.
 
-© 2025 MSW / Grounded DI LLC. All rights reserved.
+Grounded DI LLC. All rights reserved.
