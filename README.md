@@ -142,3 +142,11 @@ Suggested citation:
 [contact@groundeddi.ai](mailto:contact@groundeddi.ai)
 
 [github.com/Grounded-DI](https://github.com/Grounded-DI)
+
+## Central benchmark collection
+
+[Browse Grounded DI's benchmark and evaluation index](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/blob/main/BENCHMARK_INDEX.md).
+
+- [Preserved collection: legacy-diagnostics](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/legacy-diagnostics)
+
+The central entry preserves the BatteryWise prompt/template and ClarityWise educational diagnostic records as historical demonstrations. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
