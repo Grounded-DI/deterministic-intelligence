@@ -1,5 +1,10 @@
 # Deterministic Intelligence — Grounded DI
 
+> **START HERE (2026):** [Grounded DI Evidence and Decision Library — current reading guide](./0_START_HERE/README.md).
+> The linked collection includes the current technical roadmap, engineering controls, replay evidence, legal audit material, and a navigable exhibit-book catalog. The original files below are preserved as a historical 2025 public record.
+
+---
+
 A public development and provenance record of Grounded DI LLC's work on rule-governed control, validation, routing, and auditability for generative AI systems.
 
 ## Overview
