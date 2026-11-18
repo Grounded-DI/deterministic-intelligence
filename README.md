@@ -5,21 +5,21 @@
 
 ---
 
-A public development and provenance record of Grounded DI LLC's work on rule-governed control, validation, routing, and auditability for generative AI systems.
+Grounded DI LLC develops rule-governed control, validation, routing, and auditability for generative AI systems. This repository records the public development history.
 
 ## Overview
 
-Grounded DI began publicly documenting Deterministic Intelligence concepts and domain demonstrations in 2025. The work explores an architecture in which generated outputs are subjected to explicit constraints, evidence rules, threshold conditions, execution-state routing, escalation logic, and audit-oriented records before release.
+Grounded DI began publicly documenting Deterministic Intelligence in 2025. Its architecture evaluates generated outputs against explicit constraints, evidence rules, thresholds, execution states, escalation paths, and audit records before release.
 
 This repository preserves an early public portion of that development history, including concept documents, demonstrations, declarations, visual artifacts, authorship records, and dated revisions. It is intentionally historical: original terminology and contemporaneous claims are preserved rather than rewritten to match later commercial language.
 
-This repository is not the complete Grounded DI implementation. Private runtime, control, validation, patent, and implementation materials may exist outside this public archive.
+Grounded DI maintains additional runtime, control, validation, patent, and implementation materials outside this historical public archive.
 
 ## Why Grounded DI
 
 Generative systems can produce fluent answers without exposing a stable decision path or enforcing the conditions required for release. Grounded DI addresses that control problem through a documented architecture organized around explicit rules, evidence requirements, validation gates, execution states, escalation paths, and audit records.
 
-The public record shows the development of that approach across legal, environmental, scientific, financial, medical, engineering, research, and consumer-facing domains beginning in 2025. The central objective is consistent across those applications: move important output decisions from unconstrained generation toward inspectable, rule-governed control.
+The public record follows this approach across legal, environmental, scientific, financial, medical, engineering, research, and consumer applications. Across those domains, the control layer makes consequential output decisions inspectable.
 
 For technical evaluators and commercial partners, the relevant question is not simply what a model can generate. It is whether an organization can define what must be true before an output is accepted, routed, escalated, blocked, or released—and preserve a record of that decision.
 
@@ -115,7 +115,7 @@ Historical files in this repository refer to Protocol A, AGDI, DIA, ELOC, BriefW
 
 Organizations evaluating rule-governed AI control, output validation, release gating, state routing, replay, provenance, or domain-specific governance may contact Grounded DI regarding:
 
-- technical evaluation and proof-of-concept design;
+- technical evaluation of full-capability deployments;
 - commercial licensing;
 - enterprise or platform integration;
 - domain-specific validation workflows;
@@ -128,7 +128,7 @@ Commercial and technical inquiries: [contact@groundeddi.ai](mailto:contact@groun
 
 ## Repository Scope
 
-This repository is a public documentary and demonstration record. It is not the complete private implementation, SDK, validation environment, runtime package, or patent file history. Its purpose is to preserve an early public portion of Grounded DI's development, terminology, demonstrations, chronology, and authorship record.
+This repository preserves Grounded DI's early public demonstrations, terminology, chronology, and authorship record. For current technical and commercial materials, start with the reading guide above.
 
 No open-source license is currently provided in this repository.
 
